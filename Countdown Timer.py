@@ -1,5 +1,5 @@
 """
-try to rin the code in the jupyter notebook which gives you the best output
+try to run this code in the jupyter notebook which gives you the best output
 """
 import time
 def count(seconds):
